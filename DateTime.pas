@@ -1,3 +1,4 @@
 ﻿begin
+  print('Privet')
   
 end.
